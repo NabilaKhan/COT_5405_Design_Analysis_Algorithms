@@ -1,4 +1,4 @@
-# COT_5405_Design_Analysis_Algorithms
+# Design_Analysis_Algorithms
 
 **Assignment 1:**   
 <ins>Title:</ins> Reimplementation of the Research Paper “Preferential deletion in dynamic models of web-like networks”  
