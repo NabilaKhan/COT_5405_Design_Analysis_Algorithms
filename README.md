@@ -13,3 +13,7 @@ distribution of the whole graph with respect to the number of iterations. The re
 
 **Assignment 2:**  
 Implementation of "Counting Inversions" Algorithm
+
+
+**Final Exam:**
+Implementing "Madhava series"
